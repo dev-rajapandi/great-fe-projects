@@ -44,7 +44,7 @@ body {
   text-rendering: optimizeLegibility;
 
 
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   max-width: 1800px;
   min-height: 100dvh;
@@ -69,6 +69,7 @@ body {
 }
 
 #blog-container {
+  margin: 120px 0;
   width: min(340px, 94%);
   border-radius: var(--br);
   background-color: var(--bg-primary);
