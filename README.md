@@ -1,2 +1,2 @@
-# great-fe-projects
- Repo to save the Greate FE projects.
+# Challange
+- [Testimonial Card](https://www.greatfrontend.com/projects/challenges/testimonial-card)
